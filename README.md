@@ -1,4 +1,4 @@
-# House-Prices
+# House Prices prediction Model
 An AI model model to predict the prices of houses.
 
 </div>
